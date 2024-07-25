@@ -40,6 +40,7 @@
     background-image: url("../img/arrow-top.svg");
     width: 1.5rem;
     height: 1.5rem;
+    transition: .25s ;
 }
 
 .acordeon.open .trigger::after{
@@ -47,9 +48,14 @@
 }
 
 .acordeon .content{
-    display: none;
+    overflow: hidden;
+    height: 0;
+    opacity: 0;
+    transition: opacity .25s ease-in-out ;
 }
 
 .acordeon.open .content{
     display: inline-block;
+    height: auto;
+    opacity: 1;
 }

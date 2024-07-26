@@ -3,7 +3,6 @@
     display: flex;
     flex-direction: column;
     align-items: center;
-
 }
 
 .header .photo{
@@ -38,6 +37,11 @@
     background-repeat: no-repeat;
     background-size: contain;
     margin-right: .5rem;
+}
+
+.information a{
+    color: #fff;
+    text-decoration: none;
 }
 
 .information .job::before{

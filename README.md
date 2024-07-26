@@ -6,7 +6,7 @@
 
 
 
-![preview]()
+![preview](https://github.com/alderjunio/pagina-de-portifolio/blob/main/preview.png)
 
-[Link do Figma]() contendo o protótipo do desafio para
+[Link do Figma](https://www.figma.com/design/g6zA6klLrCWZAp76tzoVJZ/Portfolio---EDUCATION?node-id=835-454&t=X7iOkIoIWczWJMOK-0) contendo o protótipo do desafio para
 base.

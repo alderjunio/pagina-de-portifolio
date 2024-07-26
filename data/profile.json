@@ -84,19 +84,24 @@
     ],
     "professionalExperience": [
       {
-        "name": "Arquiteto de software / S3 BANK",
-        "period": "2022 - até o momento",
-        "description": "É um prazer trabalhar ao lado de tantos profissionais excepcionais e construir tantas inovações de mercado."
+        "name": "Web Developer Peace Contabilidade",
+        "period": "2023 - até o momento",
+        "description": "Desenvolvimento do site do escritório, bem como pequenas automações e um sistema interno para facilitar a rotina do escritório"
       },
       {
-        "name": "Software Engineering Lead / DIO",
-        "period": "2021 - 2022",
-        "description": "Foi um grande prazer fazer parte deste time fantástico e poder contribuir com a transformação de tantas vidas."
+        "name": "Nort Sat",
+        "period": "2022",
+        "description": "Execução de serviços de instalação de internet via rádio"
       },
       {
-        "name": "CEO / Brain Machine",
-        "period": "2016 - 2021",
-        "description": "Anos incríveis ao lado de pessoas maravilhosas ajudando muitas empresas por todo o mundo."
+        "name": "Transportadora Mônaco",
+        "period": "2021",
+        "description": "Resolvi encarar os desafios de ser um motorista carreteiro, dirigindo um veículo de 30 metros no transporte de mercadorias no Trajeto Manaus-AM até a fronteira com a Venezuela."
+      },
+      {
+        "name": "Techint Engenharia",
+        "period": "2019-2021",
+        "description": "Atividades de motorista comprador para a construção da Usina Termelétrica denominada Projeto Jaguatirica II, na cidade de Boa Vista-RR."
       }
     ]
   }

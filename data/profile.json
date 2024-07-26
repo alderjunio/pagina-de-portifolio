@@ -57,13 +57,18 @@
     ],
     "portfolio": [
       {
-        "name": "Curso Ministrado na DIO para a criação de uma Pokedex",
-        "url": "https://github.com/RenanJPaula/js-developer-pokedex",
+        "name": "Projeto Pokedex",
+        "url": "https://alderjunio.github.io/pokedex-com-javascript/",
         "github": true
       },
       {
-        "name": "Curso Ministrado na DIO para a criação de uma página de portfolio",
-        "url": "https://github.com/RenanJPaula/js-developer-portfolio",
+        "name": "Projeto X-Men",
+        "url": "https://alderjunio.github.io/x-men/",
+        "github": true
+      },
+      {
+        "name": "NLW E-Sports",
+        "url": "https://alderjunio.github.io/nlw-esports/",
         "github": true
       }
     ],

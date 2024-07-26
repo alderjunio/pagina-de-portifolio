@@ -57,6 +57,16 @@
     ],
     "portfolio": [
       {
+        "name": "Site da Peace Contabilidade",
+        "url": "https://peacecontabilidade.com/",
+        "github": false
+      },
+      {
+        "name": "Site da Easy Regularize",
+        "url": "https://easyregularize.com/",
+        "github": false
+      },
+      {
         "name": "Projeto Pokedex",
         "url": "https://alderjunio.github.io/pokedex-com-javascript/",
         "github": true

@@ -7,29 +7,42 @@
     "email": "alder.junio@gmail.com",
     "skills": {
       "hardSkills": [
+        
         {
-          "name": "Nodejs",
-          "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/nodejs.png"
+          "name": "HTML",
+          "logo": "https://github.com/alderjunio/pagina-de-portifolio/blob/main/data/img/html.png"
+        },        
+        {
+          "name": "CSS",
+          "logo": "https://github.com/alderjunio/pagina-de-portifolio/blob/main/data/img/c33.png"
         },
         {
-          "name": "Java",
-          "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/java.png"
+          "name": "Javascript",
+          "logo": "https://github.com/alderjunio/pagina-de-portifolio/blob/main/data/img/javascript.png"
+        },
+        {
+          "name": "Git",
+          "logo": "https://github.com/alderjunio/pagina-de-portifolio/blob/main/data/img/git.png"
+        },
+        {
+          "name": "GitHub",
+          "logo": "https://github.com/alderjunio/pagina-de-portifolio/blob/main/data/img/github.png"
+        }, 
+        {
+          "name": "Nodejs",
+          "logo": "https://github.com/alderjunio/pagina-de-portifolio/blob/main/data/img/nodejs.png"
         },
         {
           "name": "Angular",
-          "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/angular.png"
+          "logo": "https://github.com/alderjunio/pagina-de-portifolio/blob/main/data/img/angular.png"
         },
         {
-          "name": "React",
-          "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/react.png"
+          "name": "PHP",
+          "logo": "https://github.com/alderjunio/pagina-de-portifolio/blob/main/data/img/php.png"
         },
         {
-          "name": "Mongodb",
-          "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/mongodb.png"
-        },
-        {
-          "name": "Postgresql",
-          "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/postgresql.png"
+          "name": "MySql",
+          "logo": "https://github.com/alderjunio/pagina-de-portifolio/blob/main/data/img/mysql.png"
         }
       ],
       "softskills": [

@@ -10,39 +10,39 @@
         
         {
           "name": "HTML",
-          "logo": "https://github.com/alderjunio/pagina-de-portifolio/blob/main/data/img/html.png"
+          "logo": "https://raw.githubusercontent.com/alderjunio/pagina-de-portifolio/main/data/img/html.png"          
         },        
         {
           "name": "CSS",
-          "logo": "https://github.com/alderjunio/pagina-de-portifolio/blob/main/data/img/c33.png"
+          "logo": "https://raw.githubusercontent.com/alderjunio/pagina-de-portifolio/main/data/img/c33.png"
         },
         {
           "name": "Javascript",
-          "logo": "https://github.com/alderjunio/pagina-de-portifolio/blob/main/data/img/javascript.png"
+          "logo": "https://raw.githubusercontent.com/alderjunio/pagina-de-portifolio/main/data/img/javascript.png"
         },
         {
           "name": "Git",
-          "logo": "https://github.com/alderjunio/pagina-de-portifolio/blob/main/data/img/git.png"
+          "logo": "https://raw.githubusercontent.com/alderjunio/pagina-de-portifolio/main/data/img/git.png"
         },
         {
           "name": "GitHub",
-          "logo": "https://github.com/alderjunio/pagina-de-portifolio/blob/main/data/img/github.png"
+          "logo": "https://raw.githubusercontent.com/alderjunio/pagina-de-portifolio/main/data/img/github.png"
         }, 
         {
           "name": "Nodejs",
-          "logo": "https://github.com/alderjunio/pagina-de-portifolio/blob/main/data/img/nodejs.png"
+          "logo": "https://raw.githubusercontent.com/alderjunio/pagina-de-portifolio/main/data/img/nodejs.png"
         },
         {
           "name": "Angular",
-          "logo": "https://github.com/alderjunio/pagina-de-portifolio/blob/main/data/img/angular.png"
+          "logo": "https://raw.githubusercontent.com/alderjunio/pagina-de-portifolio/main/data/img/angular.png"
         },
         {
           "name": "PHP",
-          "logo": "https://github.com/alderjunio/pagina-de-portifolio/blob/main/data/img/php.png"
+          "logo": "https://raw.githubusercontent.com/alderjunio/pagina-de-portifolio/main/data/img/php.png"
         },
         {
           "name": "MySql",
-          "logo": "https://github.com/alderjunio/pagina-de-portifolio/blob/main/data/img/mysql.png"
+          "logo": "https://raw.githubusercontent.com/alderjunio/pagina-de-portifolio/main/data/img/mysql.png"
         }
       ],
       "softskills": [
